@@ -5,7 +5,7 @@
 
 ## General Information
 
-- [เอกสารการอบรม](https://drive.google.com/drive/folders/1YCQhdFzjxZvAMBJvuPLsyru1_avMvCJ5?usp=sharing)
+- [เอกสารการอบรม](https://drive.google.com/drive/folders/1C0y6_e2uK56QXJDP4HdRNo0ECaeTCSlU?usp=sharing)
 
 - [การติดตั้ง ERPNext](https://github.com/erp-cmu/training-2025-2/blob/main/erpnext_installation.md)
 

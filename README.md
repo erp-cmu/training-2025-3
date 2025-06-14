@@ -34,3 +34,5 @@
 9. [HR](https://scribehow.com/page/V2_ERPNext_Training_9_HR__Otwji3-WT-eVn516OsMVRA?referrer=documents)
 
 10. [Project Management](https://link.excalidraw.com/l/9PltHIQHZMD/692RsBDsX3m)
+
+11. [Doctype and Webform](https://scribehow.com/page/V3_Doctype_and_Webform__pz7QnFrQRrWuykYIdPdstA)
